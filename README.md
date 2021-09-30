@@ -4,9 +4,6 @@ The Official Github Repository for the University of Massachusetts Amherst Maker
   This is the official UMass Amherst Makerspace Github
 </h1>
 
-This is the official UMass Amherst Makerspace
-</h1>
-
 <h2>
 Creality CR-6 MAX
 </h2>
