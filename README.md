@@ -37,9 +37,9 @@ Support: Make sure support interface is off when printing with complex overhangs
 *Draft/Low Detail*
 *to be continuted*
 
-<h4>
+<h3>
 Creality Ender 3 Pro
-</h4>
+</h3>
 **CURA SETUP ON PERSONAL DEVICE**
 
 *Feel free to let staff know if you need help with setup*
@@ -59,9 +59,9 @@ Then select the profile you'd like to import. Do the same for any other profiles
 4) Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.
 
 
-<h4>
+<h3>
 Creality CR-6 Max
-</h4>
+</h3>
 **CURA SETUP ON PERSONAL DEVICE**
 
 *Feel free to let staff know if you need help with setup*
