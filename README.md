@@ -22,5 +22,5 @@ while for some other machines, you will have to follow a tutorial in order to be
 <h4>
 Creality Ender 3 Pro
 </h4>
-When downloading cura, select printer type as Creality Ender 3 Pro
+When downloading cura, select printer type as Creality Ender 3 Pro. s
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Ender 3 Pro
