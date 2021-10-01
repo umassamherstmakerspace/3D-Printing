@@ -1,11 +1,4 @@
-# UMass-Amherst-Makerspace
-<h3>
-**The Official Github Repository for the University of Massachusetts Amherst Makerspace**
-</h3>
-
-<h2>
-3D Printer Introduction and Tutorial
-</h2>
+# 3D Printer Introduction and Tutorial (UMass Amherst Makerspace)
 
 <h3>
 Getting started with Cura
