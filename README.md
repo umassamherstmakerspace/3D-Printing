@@ -71,7 +71,10 @@ If cura is already downloaded, go to Preferences > Configure Cura > Printers > A
 
 1) Under Printer settings, change the X, Y and Z depth to 400mm, then under start-gcode, look for the G28 command.
 
-2) Right under the G28 command, copy and paste this: M420 S1; Retrieve Bed level
+2) Right under the G28 command, copy and paste this: 
+
+M420 S1; Retrieve Bed level
+
 G29 O; Verify Bed level retrieved
 
 3) Click "Close".
