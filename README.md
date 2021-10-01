@@ -9,6 +9,10 @@ BE SURE TO PAY ATTENTION!
 
 Cura is a powerful slicer we use at the makerspace, so lets get started.
 
+First, download cura:
+
+https://ultimaker.com/software/ultimaker-cura 
+
 For some of our printers, like the Creality Ender 3, profiles are quite simple to obtain
 while for some other machines, you will have to follow a tutorial in order to be able to get printing.
 
@@ -18,19 +22,22 @@ while for some other machines, you will have to follow a tutorial in order to be
 Creality Ender 3 Pro
 </h4>
 **CURA SETUP ON PERSONAL DEVICE**
-https://ultimaker.com/software/ultimaker-cura 
+
 *Feel free to let staff know if you need help with setup*
 
 When downloading cura, select printer type as Creality Ender 3 Pro.
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Ender 3 Pro
 
-*Please Note*
-While cura profiles for the Ender 3 are fine, we have our own files that are made to be imported into cura. 
+*Please Note*: While cura profiles for the Ender 3 are fine, we have our own files that are made to be imported into cura. 
 
 1) At the top of the github, select code and then download zip, open the zip folder, go into the Ender 3 Pro folder, and move the profile(s) into your downloads folder. 
 
 2) Open Cura, Go to Preferences > Configure Cura > Profiles > Import
 Then select the profile you'd like to import. Do the same for any other profiles for the Ender 3 Pro.
+
+3) Import your 3D file into Cura by clicking the folder icon in the top left, and now we'll get into tweaking.
+
+4) Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.
 
 <h4>
 Creality CR-6 Max
