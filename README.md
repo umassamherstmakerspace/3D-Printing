@@ -71,6 +71,7 @@ Supports
 Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal.<br>
 <br>
 <b>Interface</b>
+<br>
 Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)<br>
 <br>
 <b>Support Density</b><br>
@@ -91,7 +92,7 @@ Creality Ender 3 Pro
 </h3>
 **CURA SETUP ON PERSONAL DEVICE**
 
-*Feel free to let staff know if you need help with setup*
+<i>Feel free to let staff know if you need help with setup</i>
 
 When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality Ender 3 Pro.
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Ender 3 Pro
@@ -113,7 +114,7 @@ Creality CR-6 Max
 </h3>
 **CURA SETUP ON PERSONAL DEVICE**
 
-*Feel free to let staff know if you need help with setup*
+<i>Feel free to let staff know if you need help with setup</i>
 
 When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality Ender 3 Pro.
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Cr-6 SE THEN follow the next instructions to adjust for the Creality CR-6 Max
