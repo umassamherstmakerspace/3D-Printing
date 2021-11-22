@@ -1,8 +1,8 @@
 # 3D Printer Introduction and Tutorial (UMass Amherst Makerspace)
 
-<h3>
+<h2>
 Getting started with Cura
-</h3>
+</h2>
 
 This is your tutorial on how to print here at the makerspace..
 BE SURE TO PAY ATTENTION!
@@ -20,9 +20,9 @@ while for some other machines, you will have to follow a tutorial in order to be
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-ender-3-pro">Ender 3 Pro</a> 
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-cr-6-max">Creality CR-6 Max</a> 
 
-<h3>
+<h2>
 Preparing Cura on your device
-</h3>
+</h2>
 Adjusting your print settings can be quite a daunting task, and always feel free to ask makerspace staff with help on how to get the right settings, but here's a general overview to get you going.
 
 First, select the profile settings box under marketplace and signin at the top right, and click custom at the bottom right of it, select the profiles drop down and make sure you have a CUSTOM PROFILE selected, any profile imported will be in that section.
@@ -33,29 +33,30 @@ Each dropdown contains settings to adjust for each specific category. For exampl
 
 If you have any questions about navigating settings, let Makerspace staff know so we can help.
 
-<h3>
+<h2>
 Adjusting settings for your prints
-</h3>
+</h2>
 
-<h4>
+<h3>
 Quality
-</h4>
+</h3>
 Only thing to modify here is layer height. The Z-axis motors operate in steps of .04mm, so best layer heights are multiples or half steps of that. 0.2 is most common and is usually good for most things. For large parts, use .28 or .3, and for very small or detailed parts .12 is best. Remember, going small only makes the print take longer and can actually reduce strength.
 
-<h4>
+<h3>
 Infill
-</h4>
+</h3>
 Stick to modifying Infill Density, Grid pattern usually has the most efficient time-strength ratio. For most parts, 15-20% is more than enough infill. For parts that really experience no strain like a figure, stick to 15%, if your part experiences moderate strain, 20% should be good. If you think you might need more than 20%, run it by Makerspace Staff.
 
-<h4>
+<h3>
 Material
-</h4>
+</h3>
 Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.<br>
 <br>
 <ol>
     <li><b>HD</b>:<br>
     HD consists of PLA filament
     Nozzle
+        <br>
     PLA 200-210C. Pro PLA 220-230C
     Bed
     All PLA 60C</li>
@@ -67,9 +68,9 @@ Each filament has its own range of temperatures to print at. There are profiles 
     PETG 80-90C</li>
 </ol>
 
-<h4>
+<h3>
 Supports
-</h4>
+</h3>
 Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal.<br>
     <br>
 <b>Interface</b>
@@ -79,19 +80,19 @@ Most of the time, you'll only be chosing whether or not you want interface on or
 <b>Support Density</b><br>
 The best support density is usually 18%. This is a great balance between quality and efficient removal. For really large parts, 15% with interface might be easier to remove and will print really well if the overhangs are simple. If parts are really tiny, 20% supports can help slightly, but will be harder to remove.
 
-<h4>
+<h3>
 Build Plate Adhesion
-</h4>
+</h3>
 Skirt is great for most parts, if you have very complex bases, brim should be more than enough. Raft is never needed if the printer is working correctly.
 
-<h4>
+<h3>
 All Other Dropdowns
-</h4>
+</h3>
 These can be ignored, unless otherwise told to be modified by Makerspace Staff.
 
-<h3>
+<h2>
 Creality Ender 3 Pro
-</h3>
+</h2>
 **CURA SETUP ON PERSONAL DEVICE**
 
 <i>Feel free to let staff know if you need help with setup</i>
@@ -111,9 +112,9 @@ If cura is already downloaded, go to Preferences > Configure Cura > Printers > A
     <li>Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.</li>
 </ol>
 
-<h3>
+<h2>
 Creality CR-6 Max
-</h3>
+</h2>
 **CURA SETUP ON PERSONAL DEVICE**
 
 <i>Feel free to let staff know if you need help with setup</i>
