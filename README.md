@@ -50,7 +50,7 @@ Stick to modifying Infill Density, Grid pattern usually has the most efficient t
 <h4>
 Material
 </h4>
-Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference
+Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference<br>
 
 **HD**:
 HD consists of PLA filament
@@ -68,15 +68,25 @@ PETG 80-90C
 <h4>
 Supports
 </h4>
-Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal. 
+Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal.<br>
 
-Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)
+**Interface**<br>
+Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)<br>
 
-Walls/Top/Bottom
+**Support Density**<br>
+The best support density is usually 18%. This is a great balance between quality and efficient removal. For really large parts, 15% with interface might be easier to remove and will print really well if the overhangs are simple. If parts are really tiny, 20% supports can help slightly, but will be harder to remove.
+
+<h4>
+Build Plate Adhesion
 </h4>
-These can be ignored, unless otherwise told by Makerspace Staff.
+Skirt is great for most parts, if you have very complex bases, brim should be more than enough. Raft is never needed if the printer is working correctly.
 
+<h4>
+All Other Dropdowns
+</h4>
+These can be ignored, unless otherwise told to be modified by Makerspace Staff.
 
+<h3>
 Creality Ender 3 Pro
 </h3>
 **CURA SETUP ON PERSONAL DEVICE**
