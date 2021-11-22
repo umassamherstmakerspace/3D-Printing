@@ -58,9 +58,8 @@ HD consists of PLA filament
 Nozzle
 PLA 200-210C. Pro PLA 220-230C
 Bed
-All PLA 60C</li><br>
-<br>
-<li><b>PETG</b>:<br>
+All PLA 60C</li>
+<li><b>PETG</b>:
 Nozzle
 PETG 240-250C
 Bed
