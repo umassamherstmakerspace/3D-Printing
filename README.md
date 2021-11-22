@@ -2,7 +2,6 @@
 
 <h3>
 Getting started with Cura
-test test
 </h3>
 
 This is your tutorial on how to print here at the makerspace..
@@ -27,6 +26,8 @@ Adjusting your print settings
 Adjusting your print settings can be quite a daunting task, and always feel free to ask makerspace staff with help on how to get the right settings, but here's a general overview to get you going.
 
 First, select the profile settings box under marketplace and signin at the top right, and click custom at the bottom right of it, select the profiles drop down and make sure you have a CUSTOM PROFILE selected, any profile imported will be in that section.
+
+Under Print settings and Profiles you'll see an icon with 3 lines, click that dropdown and select "Expert" this will ensure you have all settings available for modification.
 
 1) Print Types
 
