@@ -53,27 +53,29 @@ Material
 Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.<br>
 <br>
 <ol>
-<li><b>HD</b>:<br>
-HD consists of PLA filament
-Nozzle
-PLA 200-210C. Pro PLA 220-230C
-Bed
-All PLA 60C</li>
-<li><b>PETG</b>:
-Nozzle
-PETG 240-250C
-Bed
-PETG 80-90C</li>
+    <li><b>HD</b>:<br>
+    HD consists of PLA filament
+    Nozzle
+    PLA 200-210C. Pro PLA 220-230C
+    Bed
+    All PLA 60C</li>
+        <br>
+    <li><b>PETG</b>:<br>
+    Nozzle
+    PETG 240-250C
+    Bed
+    PETG 80-90C</li>
 </ol>
+
 <h4>
 Supports
 </h4>
 Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal.<br>
-<br>
+    <br>
 <b>Interface</b>
-<br>
+    <br>
 Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)<br>
-<br>
+    <br>
 <b>Support Density</b><br>
 The best support density is usually 18%. This is a great balance between quality and efficient removal. For really large parts, 15% with interface might be easier to remove and will print really well if the overhangs are simple. If parts are really tiny, 20% supports can help slightly, but will be harder to remove.
 
@@ -98,16 +100,16 @@ When downloading cura and in setup for the first time, select printer type as No
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Ender 3 Pro
 
 *Please Note*: While cura profiles for the Ender 3 are fine, we have our own files that are made to be imported into cura. 
-
-1) At the top of the github, select code and then download zip, open the zip folder, go into the Ender 3 Pro folder, and move the profile(s) into your downloads folder. 
-
-2) Open Cura, Go to Preferences > Configure Cura > Profiles > Import
-Then select the profile you'd like to import. Do the same for any other profiles for the Ender 3 Pro.
-
-3) Import your 3D file into Cura by clicking the folder icon in the top left, and now we'll get into tweaking.
-
-4) Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.
-
+<ol>
+    <li>At the top of the github, select code and then download zip, open the zip folder, go into the Ender 3 Pro folder, and move the profile(s) into your downloads folder.</li>
+        <br>
+    <li>Open Cura, Go to Preferences > Configure Cura > Profiles > Import
+    Then select the profile you'd like to import. Do the same for any other profiles for the Ender 3 Pro.</li>
+        <br>
+    <li>Import your 3D file into Cura by clicking the folder icon in the top left, and now we'll get into tweaking.</li>
+        <br>
+    <li>Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.</li>
+</ol>
 
 <h3>
 Creality CR-6 Max
@@ -129,7 +131,7 @@ G29 O; Verify Bed level retrieved
 
 3) Click "Close".
 
-*Please Note*: You must import our Creality CR-6 Max Profile(s) in Cura in order to print.
+<i>Please Note</i>: You must import our Creality CR-6 Max Profile(s) in Cura in order to print.
 
 1) At the top of the github, select code and then download zip, open the zip folder, go into the Creality CR-6 Max folder, and move the profile(s) into your downloads folder. 
 
