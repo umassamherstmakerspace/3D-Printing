@@ -29,17 +29,54 @@ First, select the profile settings box under marketplace and signin at the top r
 
 Under Print settings and Profiles you'll see an icon with 3 lines, click that dropdown and select "Expert" this will ensure you have all settings available for modification.
 
-1) Print Types
+Each dropdown contains settings to adjust for each specific category. For example, to adjust infill percentage you would dropdown infill and change percentage and/or pattern.
 
-*High Detail and Small*
-Speed: High detail prints should be printed in lower layer heights, anywhere from .12,.16 or .2 is optimal, and usually the smaller the piece is, the smaller the layer height, so highly detailed and larger would be .2, while really small and detailed .12.
-Material: With high detailed prints, you should usually be printing in PLA or Pro PLA, and on the lower side (usually 200C, 210-220C Pro PLA/PLA+)
-Support: Make sure support interface is off when printing with complex overhangs and complex supports, and generally you want your support density to be around 18-25% with high detailed parts (depending on how much support you need). To disable support interface, go to the profiles search, search interface, drop down the supports box and make sure "Enable support interface" is unchecked.
-
-*Draft/Low Detail*
-*to be continuted*
+If you have any questions about navigating settings, let Makerspace staff know so we can help.
 
 <h3>
+Adjusting settings for your prints
+</h3>
+
+<h4>
+Quality
+</h4>
+Only thing to modify here is layer height. The Z-axis motors operate in steps of .04mm, so best layer heights are multiples or half steps of that. 0.2 is most common and is usually good for most things. For large parts, use .28 or .3, and for very small or detailed parts .12 is best. Remember, going small only makes the print take longer and can actually reduce strength.
+
+<h4>
+Infill
+</h4>
+Stick to modifying Infill Density, Grid pattern usually has the most efficient time-strength ratio. For most parts, 15-20% is more than enough infill. For parts that really experience no strain like a figure, stick to 15%, if your part experiences moderate strain, 20% should be good. If you think you might need more than 20%, run it by Makerspace Staff.
+
+<h4>
+Material
+</h4>
+Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference
+
+**HD**:
+HD consists of PLA filament
+Nozzle
+PLA 200-210C. Pro PLA 220-230C
+Bed
+All PLA 60C
+
+**PETG**:
+Nozzle
+PETG 240-250C
+Bed
+PETG 80-90C
+
+<h4>
+Supports
+</h4>
+Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal. 
+
+Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)
+
+Walls/Top/Bottom
+</h4>
+These can be ignored, unless otherwise told by Makerspace Staff.
+
+
 Creality Ender 3 Pro
 </h3>
 **CURA SETUP ON PERSONAL DEVICE**
