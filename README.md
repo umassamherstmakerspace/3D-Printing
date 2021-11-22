@@ -50,16 +50,16 @@ Stick to modifying Infill Density, Grid pattern usually has the most efficient t
 <h4>
 Material
 </h4>
-<pr>Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.</pr>
+Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.
 
-**HD**:
+1)**HD**:
 HD consists of PLA filament
 Nozzle
 PLA 200-210C. Pro PLA 220-230C
 Bed
 All PLA 60C
 
-**PETG**:
+2)**PETG**:
 Nozzle
 PETG 240-250C
 Bed
@@ -71,6 +71,7 @@ Supports
 Here comes perhaps the most important part of 3D printing. Supports can make or break your print. Our profiles are fined tuned for easy to remove supports that both support the part and allow for efficient removal.<br>
 
 **Interface**<br>
+<br>
 Most of the time, you'll only be chosing whether or not you want interface on or off. Interface allows for very smooth surfaces, but can be hard to remove with very complex and hidden overhangs. if you have simple 90 degree or very agressive and accessible overhangs, support interface allow for even better and cleaner surfaces. To enable or disable support interface, simply search interface and go to the supports dropdown to enable or disable them (interface will only appear if supports are enabled.)<br>
 
 **Support Density**<br>
