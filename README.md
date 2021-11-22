@@ -20,9 +20,9 @@ while for some other machines, you will have to follow a tutorial in order to be
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-ender-3-pro">Ender 3 Pro</a> 
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-cr-6-max">Creality CR-6 Max</a> 
 
-<h4>
-Adjusting your print settings
-</h4>
+<h3>
+Preparing Cura on your device
+</h3>
 Adjusting your print settings can be quite a daunting task, and always feel free to ask makerspace staff with help on how to get the right settings, but here's a general overview to get you going.
 
 First, select the profile settings box under marketplace and signin at the top right, and click custom at the bottom right of it, select the profiles drop down and make sure you have a CUSTOM PROFILE selected, any profile imported will be in that section.
