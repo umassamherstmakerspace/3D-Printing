@@ -52,19 +52,20 @@ Material
 </h4>
 Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.<br>
 <br>
-1) <b>HD</b>:<br>
+<ul>
+<li><b>HD</b>:<br>
 HD consists of PLA filament
 Nozzle
 PLA 200-210C. Pro PLA 220-230C
 Bed
-All PLA 60C<br>
+All PLA 60C</li><br>
 <br>
-2) <b>PETG</b>:<br>
+<li><b>PETG</b>:<br>
 Nozzle
 PETG 240-250C
 Bed
-PETG 80-90C
-
+PETG 80-90C</li>
+</ul>
 <h4>
 Supports
 </h4>
