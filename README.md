@@ -50,8 +50,8 @@ Stick to modifying Infill Density, Grid pattern usually has the most efficient t
 <h4>
 Material
 </h4>
-Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference<br>
-
+Each filament has its own range of temperatures to print at. There are profiles that are setup for specific filaments, listed below are the temp ranges they should be at for reference.
+<br>
 **HD**:
 HD consists of PLA filament
 Nozzle
