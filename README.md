@@ -21,7 +21,7 @@ while for some other machines, you will have to follow a tutorial in order to be
  <br>
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-cr-6-max">Creality CR-6 Max</a> 
  <br>
- <a href="https://github.com/umassamherstmakerspace/3D-Printing#flsun-sr">Creality CR-6 Max</a> 
+ <a href="https://github.com/umassamherstmakerspace/3D-Printing#flsun-sr">FLSUN SR</a> 
 
 <h2>
 Preparing Cura on your device
