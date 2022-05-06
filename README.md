@@ -18,7 +18,10 @@ For some of our printers, like the Creality Ender 3, profiles are quite simple t
 while for some other machines, you will have to follow a tutorial in order to be able to get printing.
 
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-ender-3-pro">Ender 3 Pro</a> 
+ <br>
  <a href="https://github.com/umassamherstmakerspace/3D-Printing#creality-cr-6-max">Creality CR-6 Max</a> 
+ <br>
+ <a href="https://github.com/umassamherstmakerspace/3D-Printing#flsun-sr">Creality CR-6 Max</a> 
 
 <h2>
 Preparing Cura on your device
@@ -97,7 +100,7 @@ Creality Ender 3 Pro
 
 <i>Feel free to let staff know if you need help with setup</i>
 
-When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality Ender 3 Pro.
+When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality > Creality Ender 3 Pro.
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Ender 3 Pro
 
 *Please Note*: While cura profiles for the Ender 3 are fine, we have our own files that are made to be imported into cura. 
@@ -119,7 +122,7 @@ Creality CR-6 Max
 
 <i>Feel free to let staff know if you need help with setup</i>
 
-When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality Ender 3 Pro.
+When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Creality > Creality CR-6 SE.
 If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > Creality > Creality Cr-6 SE THEN follow the next instructions to adjust for the Creality CR-6 Max
 
 1) Under Printer settings, change the X, Y and Z depth to 400mm, then under start-gcode, look for the G28 command.
@@ -142,3 +145,25 @@ Then select the profile you'd like to import. Do the same for any other profiles
 3) Import your 3D file into Cura by clicking the folder icon in the top left, and now we'll get into tweaking.
 
 4) Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.
+
+<h2>
+FLSUN SR
+</h2>
+**CURA SETUP ON PERSONAL DEVICE**
+
+<i>Feel free to let staff know if you need help with setup</i>
+
+When downloading cura and in setup for the first time, select printer type as Non-Networked printer > Flsun > Flsun Super Racer.
+If cura is already downloaded, go to Preferences > Configure Cura > Printers > Add > Add a Non-Networked printer > FlSun > Flsun Super Racer
+
+*Please Note*: While cura profiles for the FLSUN SR are fine, we have our own files that are made to be imported into cura. 
+<ol>
+    <li>At the top of the github, select code and then download zip, open the zip folder, go into the FLSUN SR folder, and move the profile(s) into your downloads folder.</li>
+        <br>
+    <li>Open Cura, Go to Preferences > Configure Cura > Profiles > Import
+    Then select the profile you'd like to import. Do the same for any other profiles for the FLSUN SR.</li>
+        <br>
+    <li>Import your 3D file into Cura by clicking the folder icon in the top left, and now we'll get into tweaking.</li>
+        <br>
+    <li>Now you're all set, go back up to the cura section by scrolling or clicking <a href="https://github.com/umassamherstmakerspace/3D-Printing#getting-started-with-cura">here</a> and read on how to adjust your print settings.</li>
+</ol>
